@@ -1,29 +1,5 @@
 import UIKit
 
-//import SwiftyJSON
-//
-//Creating JSON Object
-//let object = JSON(data: dataObject)
-//Or
-//let obj = JSON(jsonObj)
-//
-//Accessing data
-// Getting string from JSON dictionary
-//let stdName = json[“name”].stringValue
-//
-// Getting int from JSON array
-//let value = json[1].int=
-//
-//Iterating over an array or dictionary
-// For array
-//for(index, element):(String, JSON) in json{
-//   Write something
-//}
-//
-// For dictionary
-//for(key, element):(String, JSON) in json{
-//   Write something
-//}
 
 
 import SwiftyJSON
